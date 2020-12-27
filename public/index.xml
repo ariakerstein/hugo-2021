@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ari Akerstein</title>
+    <title>Principles in Making</title>
     <link>https://example.org/</link>
-    <description>Recent content on Ari Akerstein</description>
+    <description>Recent content on Principles in Making</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Dec 2020 18:53:49 -0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,24 @@
       
       <guid>https://example.org/posts/my-first-post/</guid>
       <description>Hellow world!!!</description>
+    </item>
+    
+    <item>
+      <title>transferrence problem</title>
+      <link>https://example.org/posts/transferrence-problem/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/transferrence-problem/</guid>
+      <description>I’ve noticed that I am sometimes different at work than in other areas of life. I’m not a stressed person when the stakes are high (see [chemolog.com]). Quite the opposite. I’m at peace with my maker. It’s people that I find most challenging. For example if I’m on a long walk up against darkness, rain and still need to get the tent up I’ll be the one leading the charge, making a plan and with a smile on my face.</description>
+    </item>
+    
+    <item>
+      <title>When to show your work</title>
+      <link>https://example.org/posts/when-to-show-work/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/when-to-show-work/</guid>
+      <description>Holding onto work too long leads to stagnation, like part of a river branch flowing into a dead end swamp. A good outcome for showing work is either some fundamental flaw is exposed or tweaks suggested to optimize it. Either way time (the only non-renewable resource) is preserved. Through a quick personal survey I&amp;rsquo;ve observed that my outcomes tend to be good the majority of the time when I show my work quickly.</description>
     </item>
     
   </channel>
