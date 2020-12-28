@@ -2,6 +2,8 @@
 title: "Enable Us To Pull"
 date: 2020-11-01
 draft: false
+description: "A mantra for PMs"
+tags: [leadership, PM]
 ---
 
 This is what a product manager (any great leader) must do. This is a deceptively simple phrase but there a lot packed in it. This describes the what and the how and the why for achieving success as a team leader. 

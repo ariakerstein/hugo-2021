@@ -2,6 +2,9 @@
 title: "Factory Floor"
 date: 2019-06-20
 draft: false
+tags:
+- shorts
+- essays
 ---
 
 The cursor pulses hot green against the black terminal. A few quick taps execute the script. I watch the simulation unfold on the screen. Then, a stocatto barrage of keystrokes: Simulation number 39…no change from 38…The pX protein displays kinetics suggesting diffusion as the primary mechanic of nucleus traversal. In the presence of DNA breaks the molecular kinetics change and the molecule activates a cascade catalyzing repair complex formation…

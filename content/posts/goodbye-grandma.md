@@ -2,9 +2,9 @@
 title: "Goodbye Grandma"
 date: 2018-12-20
 draft: false
-categories: 
-    - essays
-
+categories: [essays, meditations]
+tags: [meditations, essays]
+description: "Parting words for my grandma"
 ---
 
 On the way to seeing her I jotted down the memories, talking point bullets in my notebook: the warm feeling from sitting on the carpet as a kid, the smell of spaghetti and meatballs permeating the air on a random weeknight; coming over for breakfast across the driveway for Kasha; etc. I wanted to sit with her and share those memories, I knew by this point she wasn’t likely to be lucid but still, maybe she could hear/recognize my voice. And I could remember. I must say that I didn’t have that flood of memory that sometimes happens. I really had to dig to get those neurons firing – it had been a long time since they were active. I find that as time passes my ability to remember childhood events becomes harder.
