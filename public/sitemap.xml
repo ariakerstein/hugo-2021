@@ -3,102 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/logic-magic/</loc>
+    <loc>/posts/logic-magic/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/quality-before-quality/</loc>
+    <loc>/posts/quality-before-quality/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/essays/</loc>
+    <loc>/tags/essays/</loc>
     <lastmod>2020-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/enopen-loops/</loc>
+    <loc>/posts/enopen-loops/</loc>
     <lastmod>2020-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/aperture/</loc>
+    <loc>/posts/aperture/</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/mastery-over-ego/</loc>
+    <loc>/posts/mastery-over-ego/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/enable-us-to-pull/</loc>
+    <loc>/posts/enable-us-to-pull/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/leadership/</loc>
+    <loc>/tags/leadership/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/pm/</loc>
+    <loc>/tags/pm/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/flavors-of-exhaustion/</loc>
+    <loc>/posts/flavors-of-exhaustion/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/factory-floor/</loc>
+    <loc>/posts/factory-floor/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/shorts/</loc>
+    <loc>/tags/shorts/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/about/</loc>
+    <loc>/posts/about/</loc>
     <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/goodbye-grandma/</loc>
+    <loc>/posts/goodbye-grandma/</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/meditations/</loc>
+    <loc>/tags/meditations/</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/goboston-marathon-2009/</loc>
+    <loc>/posts/goboston-marathon-2009/</loc>
     <lastmod>2009-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/running/</loc>
+    <loc>/tags/running/</loc>
     <lastmod>2009-04-24T00:00:00+00:00</lastmod>
   </url>
   

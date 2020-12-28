@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Principles in Making</title>
-    <link>http://example.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Principles in Making</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Ari Akerstein 2020</copyright>
-    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>essays</title>
-      <link>http://example.org/tags/essays/</link>
+      <link>/tags/essays/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/essays/</guid>
+      <guid>/tags/essays/</guid>
       <description></description>
     </item>
     
     <item>
       <title>leadership</title>
-      <link>http://example.org/tags/leadership/</link>
+      <link>/tags/leadership/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/leadership/</guid>
+      <guid>/tags/leadership/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PM</title>
-      <link>http://example.org/tags/pm/</link>
+      <link>/tags/pm/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/pm/</guid>
+      <guid>/tags/pm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shorts</title>
-      <link>http://example.org/tags/shorts/</link>
+      <link>/tags/shorts/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/shorts/</guid>
+      <guid>/tags/shorts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meditations</title>
-      <link>http://example.org/tags/meditations/</link>
+      <link>/tags/meditations/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/meditations/</guid>
+      <guid>/tags/meditations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>running</title>
-      <link>http://example.org/tags/running/</link>
+      <link>/tags/running/</link>
       <pubDate>Fri, 24 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/running/</guid>
+      <guid>/tags/running/</guid>
       <description></description>
     </item>
     
