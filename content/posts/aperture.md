@@ -2,6 +2,8 @@
 title: "Aperture"
 date: 2020-11-20
 draft: false
+categories: 
+- essays
 ---
 
 Nature opens her aperture through the consciousness of humans. We are nature, instantiated. The peril is not realizing the window of opportunity that exists for those of us blessed to live outside the survival envelope (in which we spend most of our time on survival-related activities). It’s worth stepping back and considering the absence of hardships we might easily have suffered.
