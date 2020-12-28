@@ -1,6 +1,6 @@
 
 ---
-title: In The Mix
+title: Outside-in or inside-out?
 date: 2020-12-28
 draft: false
 Tags: [mindset]
