@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>essays on Principles in Making</title>
+    <link>http://example.org/tags/essays/</link>
+    <description>Recent content in essays on Principles in Making</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ari Akerstein 2020</copyright>
+    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/essays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Loops</title>
+      <link>http://example.org/posts/enopen-loops/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/enopen-loops/</guid>
+      <description>I pass over a graveyard. If I had to guess I would say the overwhelming majority of bones beneath the stones had unfinished business - open loops.</description>
+    </item>
+    
+    <item>
+      <title>Aperture</title>
+      <link>http://example.org/posts/aperture/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/aperture/</guid>
+      <description>Nature opens her aperture through the consciousness of humans. We are nature, instantiated. The peril is not realizing the window of opportunity that exists for those of us blessed to live outside the survival envelope (in which we spend most of our time on survival-related activities).</description>
+    </item>
+    
+    <item>
+      <title>Factory Floor</title>
+      <link>http://example.org/posts/factory-floor/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/factory-floor/</guid>
+      <description>The cursor pulses hot green against the black terminal. A few quick taps execute the script. I watch the simulation unfold on the screen.</description>
+    </item>
+    
+    <item>
+      <title>Goodbye Grandma</title>
+      <link>http://example.org/posts/goodbye-grandma/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/goodbye-grandma/</guid>
+      <description>On the way to seeing her I jotted down the memories, talking point bullets in my notebook: the warm feeling from sitting on the carpet as a kid, the smell of spaghetti and meatballs permeating the air on a random weeknight; coming over for breakfast across the driveway for Kasha; etc.</description>
+    </item>
+    
+    <item>
+      <title>2009 Boston Marathon Race Report</title>
+      <link>http://example.org/posts/goboston-marathon-2009/</link>
+      <pubDate>Fri, 24 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/goboston-marathon-2009/</guid>
+      <description>The day begins at 4:30. I must have eaten more than I can remember the previous night. I cooked up a vat of pasta, garlic bread and salad for a few folks including some fellow K-star runners.</description>
+    </item>
+    
+  </channel>
+</rss>

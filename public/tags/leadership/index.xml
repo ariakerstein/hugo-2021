@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>leadership on Principles in Making</title>
+    <link>http://example.org/tags/leadership/</link>
+    <description>Recent content in leadership on Principles in Making</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ari Akerstein 2020</copyright>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enable Us To Pull</title>
+      <link>http://example.org/posts/enable-us-to-pull/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/enable-us-to-pull/</guid>
+      <description>This is what a product manager (any great leader) must do. This is a deceptively simple phrase but there a lot packed in it.</description>
+    </item>
+    
+  </channel>
+</rss>

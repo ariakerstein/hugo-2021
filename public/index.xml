@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Ari Akerstein 2020</copyright>
-    <lastBuildDate>Sat, 26 Dec 2020 18:53:49 -0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The first hugo</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sat, 26 Dec 2020 18:53:49 -0800</pubDate>
+      <title>Sublime Moments</title>
+      <link>http://example.org/posts/logic-magic/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Hellow meowing world!!!</description>
+      <guid>http://example.org/posts/logic-magic/</guid>
+      <description>Today I reviewed my year. I stared at the sheet of paper - a ledger weighing the good and the bad.</description>
     </item>
     
     <item>
@@ -24,6 +24,24 @@
       
       <guid>http://example.org/posts/quality-before-quality/</guid>
       <description>We often think of quality as embedded within a product. Does the product have the capabilities and craftsmanship I would expect?</description>
+    </item>
+    
+    <item>
+      <title>Open Loops</title>
+      <link>http://example.org/posts/enopen-loops/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/enopen-loops/</guid>
+      <description>I pass over a graveyard. If I had to guess I would say the overwhelming majority of bones beneath the stones had unfinished business - open loops.</description>
+    </item>
+    
+    <item>
+      <title>Aperture</title>
+      <link>http://example.org/posts/aperture/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/aperture/</guid>
+      <description>Nature opens her aperture through the consciousness of humans. We are nature, instantiated. The peril is not realizing the window of opportunity that exists for those of us blessed to live outside the survival envelope (in which we spend most of our time on survival-related activities).</description>
     </item>
     
     <item>
@@ -37,12 +55,57 @@ Internal interest and direction came from somewhere. If you trace it back ask yo
     </item>
     
     <item>
+      <title>Enable Us To Pull</title>
+      <link>http://example.org/posts/enable-us-to-pull/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/enable-us-to-pull/</guid>
+      <description>This is what a product manager (any great leader) must do. This is a deceptively simple phrase but there a lot packed in it.</description>
+    </item>
+    
+    <item>
+      <title>Flavors Of Exhaustion</title>
+      <link>http://example.org/posts/flavors-of-exhaustion/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/flavors-of-exhaustion/</guid>
+      <description>There are several flavors of exhaustion: Exhaustion by going shallow This is my enemy. This is what I’ve been doing the past few days as I onboard at a new company (oh, I’m now at Facebook!</description>
+    </item>
+    
+    <item>
+      <title>Factory Floor</title>
+      <link>http://example.org/posts/factory-floor/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/factory-floor/</guid>
+      <description>The cursor pulses hot green against the black terminal. A few quick taps execute the script. I watch the simulation unfold on the screen.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>http://example.org/posts/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
       <guid>http://example.org/posts/about/</guid>
       <description>This is some static page where you can write about yourself.</description>
+    </item>
+    
+    <item>
+      <title>Goodbye Grandma</title>
+      <link>http://example.org/posts/goodbye-grandma/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/goodbye-grandma/</guid>
+      <description>On the way to seeing her I jotted down the memories, talking point bullets in my notebook: the warm feeling from sitting on the carpet as a kid, the smell of spaghetti and meatballs permeating the air on a random weeknight; coming over for breakfast across the driveway for Kasha; etc.</description>
+    </item>
+    
+    <item>
+      <title>2009 Boston Marathon Race Report</title>
+      <link>http://example.org/posts/goboston-marathon-2009/</link>
+      <pubDate>Fri, 24 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/goboston-marathon-2009/</guid>
+      <description>The day begins at 4:30. I must have eaten more than I can remember the previous night. I cooked up a vat of pasta, garlic bread and salad for a few folks including some fellow K-star runners.</description>
     </item>
     
   </channel>

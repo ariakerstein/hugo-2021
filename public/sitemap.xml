@@ -4,17 +4,17 @@
   
   <url>
     <loc>http://example.org/posts/</loc>
-    <lastmod>2020-12-26T18:53:49-08:00</lastmod>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2020-12-26T18:53:49-08:00</lastmod>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2020-12-26T18:53:49-08:00</lastmod>
+    <loc>http://example.org/posts/logic-magic/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,8 +23,58 @@
   </url>
   
   <url>
+    <loc>http://example.org/tags/essays/</loc>
+    <lastmod>2020-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/enopen-loops/</loc>
+    <lastmod>2020-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/aperture/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/posts/mastery-over-ego/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/enable-us-to-pull/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/leadership/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/pm/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/flavors-of-exhaustion/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/factory-floor/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/shorts/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,7 +83,23 @@
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://example.org/posts/goodbye-grandma/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/meditations/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/goboston-marathon-2009/</loc>
+    <lastmod>2009-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/running/</loc>
+    <lastmod>2009-04-24T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

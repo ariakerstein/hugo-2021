@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meditations on Principles in Making</title>
+    <link>http://example.org/tags/meditations/</link>
+    <description>Recent content in meditations on Principles in Making</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ari Akerstein 2020</copyright>
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/meditations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodbye Grandma</title>
+      <link>http://example.org/posts/goodbye-grandma/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/goodbye-grandma/</guid>
+      <description>On the way to seeing her I jotted down the memories, talking point bullets in my notebook: the warm feeling from sitting on the carpet as a kid, the smell of spaghetti and meatballs permeating the air on a random weeknight; coming over for breakfast across the driveway for Kasha; etc.</description>
+    </item>
+    
+  </channel>
+</rss>
