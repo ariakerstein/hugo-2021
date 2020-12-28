@@ -2,8 +2,9 @@
 ---
 title: Do Less
 date: 2020-01-07
+Description: “sometimes less is more”
 draft: false
-Tags: [mindset, ]
+Tags: [mindset ]
 ---
 
 We flew back from Boston a few days ago. I’ve encountered my share of turbulence on planes but this was the worst I had ever experienced. The metallic rattling of luggage in the overheads was sickening. I imagined getting torn to bits at 30k feet. I looked down at Lev, my boy, in the next seat. I noticed his thick wavy hair, freckled cheeks – pure boyishness! He was calmly staring at the seat ahead. And I thought that if this really was the end, our last moments, that I would just want to appreciate all that he is and tell him I love him. Not much else would matter.
