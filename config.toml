@@ -30,7 +30,7 @@ summaryLength = 20
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
 
-    # Content types which are excludes Disqus comments.
+    # Content types which are excluded from Disqus comments.
     disableDisqusTypes = ["page"]
 
     # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
@@ -68,7 +68,7 @@ weight = 2
 
 [[menu.main]]
 name = "About"
-url = "content/posts/about"
+url = "/posts/about"
 weight = 3
 
 [[menu.main]]
@@ -92,6 +92,11 @@ weight = 4
  name = "instagram"
  icon = "instagram"
  url = "https://www.instagram.com/explore/tags/corewheels/?hl=en"
+
+ [[params.social]]
+ name = "goodreads"
+ icon = "book-open"
+ url = "https://www.goodreads.com/review/list/59584576?shelf=%23ALL%23" 
 
 # Enable tags.
 [taxonomies]
