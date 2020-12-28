@@ -4,6 +4,7 @@ date: 2019-04-19T21:37:58+05:30
 type: "page"
 ---
 
+![head](/ari-shaved.png)
 I use this space to share updates on Product management practice, essays and general observations. Last year I battled a blood cancer cancer. You can read about that at that on [Chemolog](http://www.chemolog.com/). 
 
 Here’s a short-list of useful links:
