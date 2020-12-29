@@ -4,6 +4,8 @@ date: 2009-11-10
 draft: false
 Tags: [bioinformatics, science]
 ---
-A Bioinformatics Study & ReportA paper I wrote for a bioinformatics class several years ago in which I annotated part of the Drosophila Erecta genome (Fosmid 14) as part of a concerted effort to annotate the entire genome. The study was spearheaded by Washington U. in Seattle. This paper was A Bioinformatics Study & Report written for a class I took at SFSU in 2007. 
-A link to the pdf version is here [annotating drosophila genome](aakerstein_bioinformatics_drosophila_annotation.pdf)
+Here’s a Bioinformatics Study annotating the Drosophila Erecta genome as part of a concerted effort to annotate the entire genome. What was really cool about this was tracing the branch points between species - you can literally see the differences at a genetic level (e.g., introns, or non-coding snippets of DNA).  
+The study was spearheaded by Washington U. in partnership with SFSU and I participated as part of a graduate class I took in 2007. A link to the pdf version is here [annotating drosophila genome][1]. 
 
+
+[1]:	aakerstein_bioinformatics_drosophila_annotation.pdf
