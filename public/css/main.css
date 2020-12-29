@@ -167,8 +167,9 @@ ul {
 }
 
 .site-title a {
-	color: #333;
+	color: #fff;
 	text-decoration: none !important;
+    font-size: xxx-large;
 }
 
 .post ul li {

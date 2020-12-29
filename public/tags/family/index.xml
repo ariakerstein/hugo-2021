@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>family on Momentary Revelations</title>
+    <link>/tags/family/</link>
+    <description>Recent content in family on Momentary Revelations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ari Akerstein 2020</copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/family/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lua Turns 3 years old</title>
+      <link>/posts/lua-turns-3/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/lua-turns-3/</guid>
+      <description>Yesterday Lua turned 3 years old. She helped me get through my dark days. She still does. And her ability to navigate people (already!</description>
+    </item>
+    
+    <item>
+      <title>DNA folding forces - bioinformatics journal club presentation</title>
+      <link>/posts/bioinformatics-investigating-the-forces-involved-in-dna-folding/</link>
+      <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bioinformatics-investigating-the-forces-involved-in-dna-folding/</guid>
+      <description>Notes from a journal club presentation I gave to the Mathematics, Chemistry and Molecular Biology faculty in 2007. This was an elegant study, called on the effect of Force on Mononucleosomal Dynamics.</description>
+    </item>
+    
+  </channel>
+</rss>

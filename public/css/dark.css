@@ -3,6 +3,12 @@ body {
 	background-color: #000;
 }
 
+.site-title a {
+	color: white;
+	text-decoration: none !important;
+    font-size: xxx-large;
+}
+
 ::-moz-selection {
     background: #666;
     text-shadow: none
@@ -45,14 +51,10 @@ a:hover {
 	color: #ddd;
 }
 
-.site-title a {
-	color: #ddd;
-	text-decoration: none !important;
-}
 
 .header nav,
 .footer {
-	border-color: #333;
+	border-color: #fff;
 }
 
 .highlight {
