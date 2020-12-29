@@ -6,11 +6,10 @@ draft: true
 Tags: [PM]
 ---
 
-I’m really excited about getting this blog up and running. I’ve been working on it furiously for the past 4 days with a lot of anguish and false starts. For about half a day I was pulling my hair out (what’s left of it!) as everything was breaking. 
-It’s live and I’m proud of the end result. 
+I’ve been working on building this blog furiously for the past 4 days with a lot of anguish and false starts. For about half a day I was pulling my hair out (what’s left of it!) as everything was breaking. But I’m really excited about getting this blog up and running. It’s live and I’m proud of the end result. 
 
 # The Journey
-I started with Gatsby. That was great but also realized that the amount of JS I need to know, and react, was resulting in weird bugs and breakage. The whole point is to get a good writing flow. The end result should PROMOTE MORE QUALITY WRITING. This should happen because the input process is smooth - it’s a pleasure to do it. The output should be something I’ll be proud of. This will generate a feedback loop of promoting more writing. 
+I started with Gatsby. That was great but also realized that the amount of Javascript and React I need to know was resulting in weird bugs and breakage. The whole point is to get a good writing flow - it should PROMOTE MORE QUALITY WRITING. This should happen because the input process is smooth - it’s a pleasure to do it. The output should be something I’ll be proud of. This will generate a feedback loop of promoting more writing. 
 
 # Why a static site generator? 
 Wouldn’t it be easier just to use Wordpress? Yes it would be. I’ve self-hosted on Wordpress for over 12 years and it’s been great for what it’s for - quick publishing. 
