@@ -4,8 +4,6 @@ date: 2019-12-30
 draft: false
 Tags: [family, Letters To Children]
 ---
-
-
 Yesterday Lua turned 3 years old. 
 
 She helped me get through my dark days. She still does. And her ability to navigate people (already!) amazes me. She has such a giant personality. Definitely a proud daddy. 
@@ -40,4 +38,6 @@ My name, Ari, in Hebrew means Lion. I’ll need to tap that power to guide you. 
 
 Ok time to get you into our lives. More later.
 
-![Lua turns 3 years old](/lua3.png)
+![Lua turns 3 years old][image-1]
+
+[image-1]:	/lua3.png
