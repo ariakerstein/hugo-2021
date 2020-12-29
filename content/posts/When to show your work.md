@@ -20,7 +20,7 @@ How do you know when to share? Finding this balance point has been the differenc
 
 1. Gather initial inputs from experts
 2. Write a perspective/POV/post
-3. Share it early for stakeholder feedback (say 70%-80% confidence, not more). I like to frame it as a request for comments [RFC]().
+3. Share it early for stakeholder feedback (say 70%-80% confidence, not more). I like to frame it as a request for comments (RFC)
 4. Finalize a decision
 
 If you don't do this one real alternative (from personal experience, not fun) is to feel as if you’re driving the car with everyone’s hand on the steering wheel. It's a great way to get nowhere.
@@ -34,4 +34,3 @@ Find the flow, jam it out in a few hours. But getting into that zone can be a ch
 So how do we get into the zone? For me, music helps. So does doing some form of fire breathing ahead of time (inspired by Wim Hoff: 30 hard breaths/3 sec in then 3 sec out). Then Coffee. These are just mechanics. The key ingredient that is necessary - but not sufficient - is self-confidence. This has always been my rate limiting factor in the times that things aren’t going well.
 
 So there's another reason to share quickly and frequently. Work shared too slowly, or not followed through to completion will lead to erosion of personal confidence. It amounts to a withdrawal from our own personal trust credit. I used to dismiss this as an infinitely replenish-able resource. It is not. We must build our own confidence in ourselves in the crucible of real-world feedback. That's not to say we need some confidence going in but that's not sufficient. We need to know that we can handle ourselves by establishing comfort with ever-increasingly stressful situations.
-
