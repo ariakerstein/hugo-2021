@@ -6,7 +6,6 @@ Description: “sometimes less is more”
 draft: false
 Tags: [mindset ]
 ---
-
 We flew back from Boston a few days ago. I’ve encountered my share of turbulence on planes but this was the worst I had ever experienced. The metallic rattling of luggage in the overheads was sickening. I imagined getting torn to bits at 30k feet. I looked down at Lev, my boy, in the next seat. I noticed his thick wavy hair, freckled cheeks – pure boyishness! He was calmly staring at the seat ahead. And I thought that if this really was the end, our last moments, that I would just want to appreciate all that he is and tell him I love him. Not much else would matter.
 
 It’s hard to find that level of focus in the daily grind. Too many tasks and details, always humming in the background. Often I’ve found that making a game of things can help. There can be a certain pleasure in doing mundane things. Some of these things really need to get done and are unavoidable. But too many others are the result of our own confusion/tendencies; it would be virtuous to recognize when we’re adding unnecessary complexity to our lives and to ruthlessly weed that out.
