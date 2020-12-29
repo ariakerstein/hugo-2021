@@ -39,3 +39,5 @@ But damage control isn’t good enough. That’s to concede defeat. As your guar
 My name, Ari, in Hebrew means Lion. I’ll need to tap that power to guide you. Names mostly do remain incantations of the vocal plane, and in that they don’t matter so much. But in times of hardship and uncertainty they can take on special powers. Whatever your name ends up being my hope in this name is that it serves you in time of challenge. I love you already.
 
 Ok time to get you into our lives. More later.
+
+![Lua turns 3 years old](/lua3.png)
