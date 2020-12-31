@@ -6,6 +6,7 @@ Tags: [Running]
 ---
 > If you emphasize the physical side of training you may become superbly conditioned but mentally not advanced at all. On the other hand, if you concentrate on the mental aspect, it is inevitable that the physical side will follow. My golden rule is to train for the mental toughness and not to train for the physical development. 
 > - Herb Elliott (world champion middle distance runner)
+
 The past several months have been insane. I left the small San Francisco startup I was working at when we didn't get our funding round. I spent nearly 3 months networking, studying and wondering what to do next. I won't forget this time, it's been wonderful to network with some of the most talented folks in the valley, advise several startups, study some topics I've been interested in for a long time - and yes - wake up several mornings with a feeling of dread that I have no income.  
 
 This race comes at about day 30 of the new role. So my training has been short. 
