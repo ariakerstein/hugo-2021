@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 description = "The blog of Ari Akerstein"
-title = "Making Revelations"
+title = "Revelations in Making"
 theme = "ezhil"
 author = "Ari Akerstein"
 profilePicture = "/images/ari-shaved.png"

@@ -1,5 +1,5 @@
 ---
-title: N.Ferguson’s War of the world book review 
+title: Review - N.Ferguson’s War of the world 
 date: 2009-12-30
 draft: false
 Tags: [Reviews ]
