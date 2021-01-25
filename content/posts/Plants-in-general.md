@@ -8,11 +8,8 @@ The frisbee veers into the brush. Lua and I walk over. As we crouch over the pla
 
 I’m somewhat horrified, not by this frozen violence, but rather by my lack of awareness about plants. I love nature. I’ll take any opportunity to walk nestled in trees and organic forms. It makes me feel at home, at peace. But my near total disinterest in the specifics of botany leaves me dumbfounded. How is it possible I’ve lived among this plants for decades with such blatent disregard for the details? To what other wonders has my daily haste blinded me?
 
-How can I notice more of these moments? The answer is to get present. 
+How can I notice more of these moments? 
 
-We are temporal beings. We are aware of music and beats and time, and of the space between notes. Toddlers dance. 
-
-Our perspective oscillates like a pendulum's swing: past-future, future-past, blurring past the NOW. 
-But sometimes, when the outside energy dissipates, the pendulum stills. It still has pendulum nature - it'll only take a small kick to get it going again. But for a brief moment it is not in motion. 
+The answer is to get present. Our perspective oscillates like a pendulum's swing: past-future, future-past, blurring past *this* moment. But sometimes, when the outside energy dissipates, the pendulum stills. It still has pendulum nature - it'll only take a small kick to get it going again. But for a brief moment it is not in motion. 
 
 So it is. I exist here and now. With plants. 
