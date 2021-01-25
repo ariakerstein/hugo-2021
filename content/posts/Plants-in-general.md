@@ -1,7 +1,7 @@
 ---
 title: Plants, in general
 date: 2020-12-31
-draft: true
+draft: false
 Tags: [meditations]
 ---
 # Plants, in general
