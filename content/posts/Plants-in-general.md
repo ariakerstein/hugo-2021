@@ -16,4 +16,4 @@ If the first step is to stop the motion, the second step is to get calm in the s
 
 The question I find most helpful to ask myself - as a light cuts through the fog - what else is here? This helps me see the vibrations as energy; Nature observing itself.
 
-So it is. I exist here and now. With plants. 
+So it is. Here and now. With plants. 
