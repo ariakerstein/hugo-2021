@@ -12,8 +12,8 @@ How can I notice more of these moments?
 
 The answer is to get present. Our perspective oscillates like a pendulum's swing: past-future, future-past, always whizzing past *now*. But sometimes the outside energy dissipates and the pendulum stills. 
 
-If the first step is to stop the motion, the second step is to get calm in the stillness. Step 2 is much harder. The question I find helpful to ask myself is: what else is here? 
+If the first step is to stop the motion, the second step is to get calm in the stillness. Step 2 is much harder. I’ve come to think that remaining calm while sitting still is one of the hardest things to do. 
 
-I’ve come to think that remaining calm while sitting still is one of the hardest things to do. In the same way that a drop of water seems still, so too our stillness vibrates with other stuff - Brownian motion of mind. 
+Still is not the same as calm. When still, the question I find most helpful to ask myself is: what else is here? In the same way that a drop of water seems still, our stillness vibrates with Brownian motions of mind. 
 
 So it is. I exist here and now. With plants. 
