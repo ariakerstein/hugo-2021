@@ -10,6 +10,10 @@ I’m somewhat horrified, not by this frozen violence, but rather by my lack of 
 
 How can I notice more of these moments? 
 
-The answer is to get present. Our perspective oscillates like a pendulum's swing: past-future, future-past, blurring past *this* moment. But sometimes, when the outside energy dissipates, the pendulum stills. It still has pendulum nature - it'll only take a small kick to get it going again. But for a brief moment it is not in motion. 
+The answer is to get present. Our perspective oscillates like a pendulum's swing: past-future, future-past, always whizzing past *now*. But sometimes the outside energy dissipates and the pendulum stills. 
+
+If the first step is to stop the motion, the second step is to get calm in the stillness. Step 2 is much harder. The question I find helpful to ask myself is: what else is here? 
+
+I’ve come to think that remaining calm while sitting still is one of the hardest things to do. In the same way that a drop of water seems still, so too our stillness vibrates with other stuff - Brownian motion of mind. 
 
 So it is. I exist here and now. With plants. 
