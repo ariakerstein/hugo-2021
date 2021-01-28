@@ -1,12 +1,12 @@
 ---
 title: Plants, in general
 date: 2020-12-31
-draft: false
+draft: true
 Tags: [meditations]
 ---
-The frisbee veers into the brush. Lua and I walk over. As we crouch over the planter box I look down and notice green protruding jaws cup two tablespoons of water. As I inch closer, I notice white spots, patterns and tiny teeth protruding along the edges of the leaves.
+The frisbee veers into the brush. Lua and I walk over. As we crouch over the planter box I look down and notice green protruding jaws cup two tablespoons of water. As I inch closer, I notice white spots, patterns and tiny teeth along the edges of the leaves.
 
-I’m somewhat horrified, not by this frozen violence, but rather by my lack of awareness about plants. I love nature. I’ll take any opportunity to walk nestled in trees and organic forms. It makes me feel at home, at peace. But my near total disinterest in the specifics of botany leaves me dumbfounded. How is it possible I’ve lived among this plants for decades with such blatant disregard for the details? To what other wonders has my daily haste blinded me?
+I’m somewhat horrified, not by the frozen violence, but rather by my lack of awareness about plants. I love nature. It makes me feel at home, at peace. But my near total disinterest in the specifics of botany leaves me dumbfounded. How is it possible I’ve lived among this plants for decades with such blatant disregard for the details? To what other wonders has my daily haste blinded me?
 
 How can I notice more of these moments? 
 
