@@ -1,0 +1,25 @@
+<!-- layouts/taxonomy/tag.html -->
+<!DOCTYPE html>
+<html>
+{{ partial "header.html" . }}
+
+<body>
+	<div class="container wrapper tags">
+		{{ partial "head.html" . }}
+
+	<h1 class="page-title">Tags: {{ .Title }}</h1>
+
+
+<ul>
+  {{ range .Data.Pages }}
+  <li>
+    <a href="{{.RelPermalink}}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
+
+	{{ partial "footer.html" . }}
+</body>
+
+
+</html>
