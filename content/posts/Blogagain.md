@@ -2,7 +2,7 @@
 title: Blog Again
 date: 2022-06-09
 description: "It feels good to write"
-draft: true
+draft: false
 Tags: [essays]
 ---
 
