@@ -1,4 +1,4 @@
-baseURL = "https://"
+baseURL = "/"
 languageCode = "en-us"
 description = "The blog of Ari Akerstein"
 title = "Night Prose"
