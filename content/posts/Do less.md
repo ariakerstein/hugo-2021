@@ -1,4 +1,3 @@
-
 ---
 title: Do Less
 date: 2020-01-07

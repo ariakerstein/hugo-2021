@@ -1,5 +1,5 @@
 ---
-title: "Quality before quality"
+title: "Some Notes on Quality"
 date: 2020-12-18
 draft: false
 ---
@@ -9,8 +9,8 @@ We often think of quality as embedded within a product. Does the product have th
 I kind of knew this for a long time but have often disregarded this idea in my push to ship and iterate. This is kind of like survival of the fittest - brutally effective but results in lots of death and hardship. 
 I think of this as the golden triangle of quality:
 Inner game
-## Quality before quality 
-Output
+## Mindset before quality 
+
 This ties with another concept: playing the inner game of PM. This concept is well articulated in "the inner game of tennis". It starts with me overcoming the anxiety of externals. That means I perceive challenges as opportunities to improve my game. That hard email? Opportunity to sharpen my diplomacy, That retrospective pointing directly at my failures? Opportunity to lead more effectively. 
 Do we build products for the survival of the company? Do we build products to delight people? 
 
