@@ -5,7 +5,7 @@ title = "Night Prose"
 theme = "ezhil"
 author = "Ari Akerstein"
 profilePicture = "/images/ari-shaved.png"
-copyright = "© Ari Akerstein 2012"
+copyright = "© Ari Akerstein 2006"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
