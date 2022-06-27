@@ -2,7 +2,7 @@
 title: "Sublime Moments"
 date: 2020-12-27
 draft: false
-description: "Optimizing for grace is easy and elusive"
+description: "Optimizing for grace is both easy and elusive"
 ---
 
 Today I reviewed my year. I stared at the sheet of paper - a ledger weighing the good and the bad. As I stared at the page, a question: how many sublime moments did I have? 
