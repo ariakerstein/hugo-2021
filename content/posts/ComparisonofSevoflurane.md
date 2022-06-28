@@ -1,6 +1,6 @@
 
 ---
-title: Chabot half marathon race report
+title: "Comparing Sevoflurance with a sister anesthetic"
 date: 2012-04-03
 draft: false
 Tags: [science]
