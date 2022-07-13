@@ -14,5 +14,5 @@ Here's the process:
 2. Gain some deep insight, knowledge that others do not know by ecploring this deeply, in whatever deeply authentic, obsessive playful way makes sense to you. Yes, obsession = play when done well. And you know when it's done well because it's pull, not push.
 3. Define the artifact to bring that to life. Specifically this means people will learn from it. In Einstein's case it was a series of papers; in the case of Facebook it was a product; etc. 
 4. Do that thing. Do it fast, or slow. Take it at the pace dictated by inner workings of the invention. Never let external forces rush you.
-5. Get feedback from your trust committee.
+5. Get feedback from your trust committee. Incorporate as you see fit. 
 6. Release it. 
