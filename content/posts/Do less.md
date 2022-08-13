@@ -18,3 +18,5 @@ It’s important to keep in mind that the trajectory matters more than the insta
 I think a good way to address this challenge is to extend the time horizon to a month or quarter and run the visualization/thought experiment prospectively: if given the choice when this \<quarter\> is over, would I want to repeat it? Personally I’ve found this to be quite a useful approach.
 
 The other way to do this is to track daily satisfaction and analyze the trends retrospectively. One way to do this is with a daily tracker: Rank your overall emotional satisfaction on some scale (I use: -2 to +2, 0 being ‘meh‘) and monitor over a quarter. If the score is below some level of acceptability (the bar) then it’s probably time to change it up.  
+
+Done
