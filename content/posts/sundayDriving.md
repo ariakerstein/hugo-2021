@@ -3,7 +3,7 @@ title: "Sunday Driving"
 date: 2022-08-14
 draft: false
 categories: [logs]
-tags: [essays]
+tags: [log]
 description: "Sundays drives are the best"
 ---
 
