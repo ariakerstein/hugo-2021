@@ -15,9 +15,10 @@ car. The car has close feedback between the driver and
 road/conditions. In contrast the rocket must be planned perfectly at
 the outset. I drive. 
 
-## Why not monday? 
+## Why not monday?
 Monday? Monday is when the rubber hits the road. I always have hated
 Monday. You might think that a well-laid plan for the week would make
 Monday awesome. So why not? Not sure but my aim is to connect Sunday
-awesomeness so it bleeds into Monday. Let's see if I can come back
-with a better answer. More to come....
+awesomeness so it bleeds into Monday. 
+
+Experiment: Attempt to simply focus on priorities by jotting them on an index card - one side. Don’t bother with anything else, just focus on this list to the brutal exclusion of all else. Let’s see how we do. Oh, keep slack turned off :). 
