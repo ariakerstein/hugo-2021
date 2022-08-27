@@ -9,7 +9,7 @@ description: "Building a bed is satisfying"
 
   Today I built a bed. Why did I want to do that? Because there’s some satisfaction in making your own bed, then sleeping in it. 
 
-![bed](/static/wp/bed1.jpg)
-![Finished bed](../static/wp/bed3.jpg)
+![bed](/static/bed1.jpg)
+![Finished bed](../static/bed3.jpg)
 
 
