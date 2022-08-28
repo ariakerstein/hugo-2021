@@ -7,7 +7,7 @@ Tags: [mindset]
 
 # Notebooks
 
-I was flipping through some old notebooks - I think this one was Calculus 2, a course I particularly enjoyed. The One side had some complex squiggles. But in the margins it wax just one idea after another. I had forgotten about this sensation of just firing on all cylinders. It was so interesting to me how doing math would light a fire on other sides of my brain: poems, company ideas, political ruminations. 
+I was flipping through some old notebooks - I think this one was Calculus 2, a course I particularly enjoyed. The One side had some complex squiggles. And on the other side, an in the margins it was one idea after another. I had forgotten about this sensation of just firing on all cylinders. It was so interesting to me how doing math would light a fire on other sides of my brain. Reading through the notebook I saw poems, company ideas, political ruminations, architectural drawings, marketing slogans for the company. 
 
 These days I'm not doing so much math. On occasion I'll dust off an old textbook, sit down with a yellow pad, pencil and a tea, crack open the book and do problems. Just for fun. 
 
