@@ -1,7 +1,7 @@
 ---
 title: Priming the Ideaphoria pump
 date: 2022-08-28
-draft: true
+draft: false
 Tags: [mindset]
 ---
 
