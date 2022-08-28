@@ -1,13 +1,12 @@
 ---
-title: "Build a Bed"
+title: "Making my Bed"
 date: 2022-08-20
 draft: false
 categories: [logs]
 tags: [log]
-description: "Building a bed is satisfying"
+description: "Making your bed is satisfying"
 ---
-
-  Today I built a bed. Why did I want to do that? Because there’s some satisfaction in making your own bed, then sleeping in it. 
+I've heard people say it's good to make your bed. I figured I'd take this advice literally. So, I made my bed. 
 
 ![bed](/static/bed1.jpg)
 ![Finished bed](/static/bed3.jpg)
