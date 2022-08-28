@@ -12,7 +12,7 @@ I was flipping through some old notebooks - I think this one was Calculus 2, a c
 These days I'm not doing so much math. On occasion I'll dust off an old textbook, sit down with a yellow pad, pencil and a tea, crack open the book and do problems. Just for fun. 
 
 What I realized is that the end is NOT to become a mathematician, or anything along these lines. Rather, the goal is to prime the pump for ideas. I know that one sure-fire way to get them going is to either:
-1. Go runing / working out
-2. code or do some form of math/physics. 
+1. Go running / working out
+2. Code or do some form of math/physics. 
 
 Why this is the case is purely a matter of speculation. But what I know is this is a great entry point in terms of motivations/reasons to continue doing these seemingly "wasteful" activities. That's right, I consider these things to be waste without this reframe. Let's see if it helpsn to do more of this! 
