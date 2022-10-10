@@ -1,7 +1,7 @@
 ---
 title: "Mastery Over Ego"
 date: 2020-11-05
-draft: false
+draft: true
 ---
 
 Mastery over ego
