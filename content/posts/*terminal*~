@@ -1,0 +1,125 @@
+aa11787@aa11787-pro posts % brew install homebrew/emacs/markdown-mode
+Error: homebrew/emacs was deprecated. This tap is now empty and all its contents were either deleted or migrated.
+aa11787@aa11787-pro posts % brew update
+Already up-to-date.
+aa11787@aa11787-pro posts % pwd
+/Users/aa11787/Dropbox/org/hugo-2021/content/posts
+aa11787@aa11787-pro posts % ls
+#build-a-bed.md#
+Anchor Points.md
+Bioinformatics- Annotating Drosophila genome.md
+Bioinformatics- investigating the forces involved in DNA folding.md
+Blogagain.md
+Chabot Half Marathon race report.md
+ComparisonofSevoflurane.md
+Democracy.md
+Do less.md
+Do not trade pleasure.md
+Fluid Dynamics.md
+Hello-world-saul.md
+In the mix.md
+Lua Turns 3.md
+Mastery-over-ego.md
+Mental training for COVID-19.md
+Plants-in-general.md
+Review for N. Ferguson's War of the World.md
+The new blog.md
+The space between sets.md
+To-see-without-judgment.md
+Too much grit.md
+Triggers.md
+Using SiRNA to understand inhaled anesthetic action experiment design.md
+When to show your work.md
+about.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File Edit Options Buffers Tools Help                                                                                        
+---
+title: "Mastery Over Ego"
+date: 2020-11-05
+draft: true
+---
+
+Mastery over ego
+
+Internal interest and direction came from somewhere. If you trace it back ask youself if this came from others or from your\
+self.
+
+Power is a barrier. When you have a manager, a team, it’s easy for a switch to happen. In my own career I’ve seen the worst\
+ in my emerge when I switch from a mastery mindset to an ego mindset. I start worrying about optics, shielding, upward comm\
+unication. This is what’s called taking your eye off the ball. And it’s been a personal barrier to doing the work.
+
+Michael Jordan said it's about the fans. The tactics he used to get inside other players heads was in service of greatness \
+and mastery. Jeff Bezos says it’s about customers.
+
+The problem is when customers are secondary - abstract or distant. Then the company perimeter/arena dominates.
+
+How can we return to a mastery mindset amidst pressures of reviews and the practical prssures of corporate life?
+
+The inner game of tennis talks about challenge as a mechanic for understanding.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-UUU:**--F1  Mastery-over-ego.md   All L4    Git-main  (Fundamental) -------------------------------------------------------
+
